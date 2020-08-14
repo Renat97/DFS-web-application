@@ -1,0 +1,19 @@
+{
+  "name": "dfs-web-application",
+  "version": "1.0.0",
+  "description": "Web applications to show the Depth First Search algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renat97/DFS-web-application.git"
+  },
+  "author": "Renat Norderhaug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renat97/DFS-web-application/issues"
+  },
+  "homepage": "https://github.com/Renat97/DFS-web-application#readme"
+}
