@@ -1,7 +1,7 @@
 // Global app controller
-import depthFirstSearch from './algo';
+// import depthFirstSearch from './algo';
 const x = 23;
-console.log(handleNode(30));
+// console.log(handleNode(30));
 console.log(` variable x is ${x}`);
 var ctx = document.getElementById("myCanvas").getContext("2d");
 
