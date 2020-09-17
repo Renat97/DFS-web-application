@@ -52,7 +52,6 @@ drawCircle(340,245);
 drawCircle(390,120);
 })();
 
-
 var Start = document.getElementById('submit');
 Start.addEventListener('click', (event) => {
     setTimeout(() => {

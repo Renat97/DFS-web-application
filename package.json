@@ -6,8 +6,12 @@
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
+<<<<<<< HEAD
     "start": "webpack-dev-server --mode development --open",
     "heroku-postbuild": "npm run build"
+=======
+    "start": "webpack-dev-server --mode development --open"
+>>>>>>> 4e190ed7a0524bc2b4fc9517d1f6de6cc8e0ea26
   },
   "repository": {
     "type": "git",
